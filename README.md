@@ -72,7 +72,7 @@ Core ideas, system design, and foundational components are actively being explor
 
 ## Maintainer
 
-**Hardik**  
+**Hardik Sen**  
 Founder, Master AI  
 India
 
