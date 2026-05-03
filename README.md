@@ -73,7 +73,7 @@ Core ideas, system design, and foundational components are actively being explor
 ## Maintainer
 
 **Hardik Sen**  
-Founder, Enthurial
+Founder, Bitnova
 India
 
 ---
